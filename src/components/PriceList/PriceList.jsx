@@ -12,54 +12,54 @@ const PriceList = () => {
                 <div className="price-category">
                     <h2>Acrylics</h2>
                     <ul>
-                        <li>Short acrylic plain - 250</li>
-                        <li>Medium acrylic plain - 300</li>
-                        <li>Long acrylic plain - 350</li>
-                        <li>Refill - 200</li>
+                        <li>Short acrylic plain - 300</li>
+                        <li>Medium acrylic plain - 350</li>
+                        <li>Long acrylic plain - 400</li>
+                        <li>Refill - 250</li>
                     </ul>
                 </div>
 
                 <div className="price-category">
                     <h2>Extras</h2>
                     <ul>
-                        <li>Stones per finger - 30</li>
-                        <li>Art per finger - 30</li>
+                        <li>Stones per finger - 80</li>
+                        <li>Art per finger - 80</li>
                     </ul>
                 </div>
 
                 <div className="price-category">
                     <h2>Gel Builder</h2>
                     <ul>
-                        <li>Gel builder short - 250</li>
-                        <li>Gel builder medium - 300</li>
-                        <li>Gel builder long - 350</li>
+                        <li>Gel builder short - 300</li>
+                        <li>Gel builder medium - 350</li>
+                        <li>Gel builder long - 400</li>
                     </ul>
                 </div>
 
                 <div className="price-category">
                     <h2>Overlay & Designs</h2>
                     <ul>
-                        <li>Overlay - 200</li>
-                        <li>French design - 50</li>
-                        <li>Ombré nails short - 300</li>
-                        <li>Ombré nails medium - 350</li>
-                        <li>Ombré nails long - 400</li>
-                        <li>Chrome - 50</li>
+                        <li>Overlay - 250</li>
+                        <li>French design - 100</li>
+                        <li>Ombré nails short - 350</li>
+                        <li>Ombré nails medium - 400</li>
+                        <li>Ombré nails long - 450</li>
+                        <li>Chrome - 100</li>
                     </ul>
                 </div>
 
                 <div className="price-category">
                     <h2>Other Services</h2>
                     <ul>
-                        <li>Stick on Nails - 200</li>
-                        <li>Toe acrylic with gel - 200</li>
-                        <li>Gel polish - 100</li>
-                        <li>Dissolving - 50</li>
-                        <li>Manicure - 100</li>
-                        <li>Pedicure - 200</li>
+                        <li>Stick on Nails - 250</li>
+                        <li>Toe acrylic with gel - 250</li>
+                        <li>Gel polish - 150</li>
+                        <li>Dissolving - 100</li>
+                        <li>Manicure - 150</li>
+                        <li>Pedicure - 250</li>
                         <li>Home service - X2</li>
-                        <li>Pendicure gel - 250</li>
-                        <li>Cat eye polish - 150</li>
+                        <li>Pendicure gel - 300</li>
+                        <li>Cat eye polish - 200</li>
                     </ul>
                 </div>
             </div>
