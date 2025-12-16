@@ -22,8 +22,8 @@ const PriceList = () => {
                 <div className="price-category">
                     <h2>Extras</h2>
                     <ul>
-                        <li>Stones per finger - 80</li>
-                        <li>Art per finger - 80</li>
+                        <li>Stones per finger - 30</li>
+                        <li>Art per finger - 30</li>
                     </ul>
                 </div>
 
@@ -40,11 +40,11 @@ const PriceList = () => {
                     <h2>Overlay & Designs</h2>
                     <ul>
                         <li>Overlay - 250</li>
-                        <li>French design - 100</li>
+                        <li>French design - 50</li>
                         <li>Ombré nails short - 350</li>
                         <li>Ombré nails medium - 400</li>
                         <li>Ombré nails long - 450</li>
-                        <li>Chrome - 100</li>
+                        <li>Chrome - 50</li>
                     </ul>
                 </div>
 
@@ -54,12 +54,12 @@ const PriceList = () => {
                         <li>Stick on Nails - 250</li>
                         <li>Toe acrylic with gel - 250</li>
                         <li>Gel polish - 150</li>
-                        <li>Dissolving - 100</li>
+                        <li>Dissolving - 50</li>
                         <li>Manicure - 150</li>
                         <li>Pedicure - 250</li>
                         <li>Home service - X2</li>
                         <li>Pendicure gel - 300</li>
-                        <li>Cat eye polish - 200</li>
+                        <li>Cat eye polish - 150</li>
                     </ul>
                 </div>
             </div>
