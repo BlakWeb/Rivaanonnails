@@ -2,7 +2,7 @@ import React from 'react'
 import "./Header.css";
 import pedicure_man from "../../assets/pedicure-man.jpg"
 
-const Header = () => {
+const Header = (dmnbb) => {
     return (
         <div className="header">
             <h1>Welcome to Rivaan on Nails</h1>
